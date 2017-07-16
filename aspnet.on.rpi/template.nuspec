@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CodeItYourself.ASPNET.Raspberry</id>
+    <version>1.0.0</version>
+    <description>A template creating an ASP.NET Core Web application ready to run on your Raspberry Pi</description>
+    <authors>Carlos Mendible (@cmendibl3)</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>

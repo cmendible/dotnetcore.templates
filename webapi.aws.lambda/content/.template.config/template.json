@@ -1,0 +1,14 @@
+{
+    "author": "Carlos Mendible",
+    "classifications": [
+        "Web"
+    ],
+    "name": "ASP.NET Core Web API AWS Lambda",
+    "identity": "codeityourself.webapi.aws.lambda", // Unique name for this template
+    "shortName": "webapilambda", // Short name that can be used on the cli
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "aws.lambda", // Will replace the string 'aws.lambda' with the value provided via -n.
+    "preferNameDirectory": "true"
+}
