@@ -1,7 +1,7 @@
 {
     "author": "Carlos Mendible",
     "classifications": [
-        "Web"
+        "Web/WebAPI"
     ],
     "name": "ASP.NET Core Web API AWS Lambda",
     "identity": "codeityourself.webapi.aws.lambda", // Unique name for this template

@@ -3,7 +3,7 @@
   <metadata>
     <id>CodeItYourself.ASPNET.Raspberry</id>
     <version>1.0.0</version>
-    <description>A template creating an ASP.NET Core Web application ready to run on your Raspberry Pi</description>
+    <description>Create an ASP.NET Core Web application ready to run on your Raspberry Pi</description>
     <authors>Carlos Mendible (@cmendibl3)</authors>
     <packageTypes>
       <packageType name="Template" />

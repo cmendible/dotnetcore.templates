@@ -5,7 +5,7 @@
     ],
     "name": "ASP.NET Core Web Application for Raspberry Pi",
     "identity": "codeityourself.web.raspberry", // Unique name for this template
-    "shortName": "weblambda", // Short name that can be used on the cli
+    "shortName": "webrpi", // Short name that can be used on the cli
     "tags": {
         "language": "C#"
     },
