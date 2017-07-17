@@ -3,10 +3,16 @@
   <metadata>
     <id>CodeItYourself.WebAPI.AWS.Lambda</id>
     <version>1.0.0</version>
+    <summary>Create an ASP.NET Core Web API ready to for AWS Lambda</summary>
     <description>Create an ASP.NET Core Web API ready to for AWS Lambda</description>
     <authors>Carlos Mendible (@cmendibl3)</authors>
+    <owners>Carlos Mendible (@cmendibl3)</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <language>en-US</language>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
+    <projectUrl>https://github.com/cmendible/dotnetcore.templates</projectUrl>
+    <tags>dotnetcore template .netcore aws lambda</tags>
   </metadata>
 </package>

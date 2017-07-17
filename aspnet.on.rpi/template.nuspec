@@ -3,10 +3,16 @@
   <metadata>
     <id>CodeItYourself.ASPNET.Raspberry</id>
     <version>1.0.0</version>
+    <summary>Create an ASP.NET Core Web application ready to run on your Raspberry Pi</summary>
     <description>Create an ASP.NET Core Web application ready to run on your Raspberry Pi</description>
     <authors>Carlos Mendible (@cmendibl3)</authors>
+    <owners>Carlos Mendible (@cmendibl3)</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <language>en-US</language>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
+    <projectUrl>https://github.com/cmendible/dotnetcore.templates</projectUrl>
+    <tags>dotnetcore template .netcore RaspberryPi</tags>
   </metadata>
 </package>
