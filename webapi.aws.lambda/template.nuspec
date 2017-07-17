@@ -3,6 +3,7 @@
   <metadata>
     <id>CodeItYourself.WebAPI.AWS.Lambda</id>
     <version>1.0.0</version>
+    <title>CodeItYourself.WebAPI.AWS.Lambda</title>
     <summary>Create an ASP.NET Core Web API ready to for AWS Lambda</summary>
     <description>Create an ASP.NET Core Web API ready to for AWS Lambda</description>
     <authors>Carlos Mendible (@cmendibl3)</authors>
