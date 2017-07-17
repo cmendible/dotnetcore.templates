@@ -1,0 +1,14 @@
+{
+    "author": "Carlos Mendible",
+    "classifications": [
+        "Web/API"
+    ],
+    "name": "ASP.NET Core Web Application Echo Bot",
+    "identity": "codeityourself.webapi.echobot", // Unique name for this template
+    "shortName": "webechobot", // Short name that can be used on the cli
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "WebApplication", // Will replace the string 'WebApplication' with the value provided via -n.
+    "preferNameDirectory": "true"
+}
